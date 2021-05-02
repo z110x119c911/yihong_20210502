@@ -1,0 +1,18 @@
+@import "@~bootstrap/scss/functions";
+@import "../scss/helpers/variables";
+@import "@~bootstrap/scss/bootstrap.scss";
+@import "../scss/css/style";
+//customer
+@import "../scss/helpers/navPill";
+@import "../scss/helpers/img";
+@import "../scss/helpers/list";
+.border_corner{
+  border-radius: 20px;
+}
+
+.shadow{
+  box-shadow: 3px 3px #d3d3d3;
+}
+.bm-burger-button {
+  top: 20px;
+}

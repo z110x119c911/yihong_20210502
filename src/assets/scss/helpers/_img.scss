@@ -1,0 +1,13 @@
+.serviceImg {
+  background: url(~@/assets/img/serviceBg1.png);
+  background-position: center center;
+}
+.imgSize {
+  height: 250px;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .imgSize {
+    height: 300px;
+  }
+}
