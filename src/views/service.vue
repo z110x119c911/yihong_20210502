@@ -62,7 +62,7 @@ export default {
   data() {
     return {
       img:service_picture,
-      size: 0
+      size: 1000
     }
   },
   computed: {
