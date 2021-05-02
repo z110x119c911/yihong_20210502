@@ -1,14 +1,16 @@
 <template>
   <div>
     <Header :picture="img"></Header>
-    <b-card no-body>
-        <b-tabs pills card :vertical="vertical" nav-wrapper-class="nav-wrap text-center serviceImg">
-          <b-tab title="一般清潔服務" disabled>
+    <section>
+      <b-card no-body>
+        <h4 class="d-block d-md-none py-4 text-center mb-0 text-green font-weight-bold">一般清潔服務</h4>
+        <b-tabs pills card :vertical="vertical" nav-wrapper-class="py-4 nav-wrap text-center serviceImg">
+          <b-tab no-body title="一般清潔服務" disabled>
             <template #title>
-              <p class="py-3 h4 text-green font-weight-bold">一般清潔服務</p>
+              <p class="py-3 h4 text-green font-weight-bold d-none d-md-block">一般清潔服務</p>
             </template>
           </b-tab>
-          <b-tab title="環境管理服務" active>
+          <b-tab no-body title="環境管理服務" active>
             <b-card-text>
               <div class="card border_corner my-3">
                 <div class="card-body">
@@ -50,6 +52,7 @@
           </b-tab>
         </b-tabs>
       </b-card>
+    </section>
   </div>
 </template>
 <script>
