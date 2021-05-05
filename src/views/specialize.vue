@@ -48,15 +48,15 @@
                     <div class="col-6 col-md-6 col-lg-3 py-2">
                       <img src="../assets/img/specialize/floor4-2.jpg" class="card-img-top imgSize" alt="floor8" title="地板維護上蠟-8">
                     </div>
-                    <div class="col-12 text-green">
-                      <!-- <h4 class="text-center py-5">地板維護上蠟含樓梯</h4> -->
+                    <!-- <div class="col-12 text-green">
+                      <h4 class="text-center py-5">地板維護上蠟含樓梯</h4>
                         <ul class="list-group list">
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>止滑增豔</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>防護維護</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地板生命週期</li>
                         </ul>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -92,14 +92,14 @@
                     <div class="col-6 col-md-6 col-lg-3 py-2">
                       <img src="../assets/img/specialize/sofa2-2.jpg" class="card-img-top imgSize" alt="sofa6" title="沙發及椅子清洗-6">
                     </div>
-                    <div class="col-12 text-green">
-                      <!-- <h4 class="text-center py-5">沙發及椅子清洗</h4> -->
+                    <!-- <div class="col-12 text-green">
+                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
                         <ul class="list-group list">
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>保持表面乾淨</li>
                         </ul>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -135,15 +135,15 @@
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/specialize/carpet3-2.jpg" class="card-img-top imgSize" alt="carpet6" title="地毯清洗-6">
                     </div>
-                    <div class="col-12 text-green">
-                      <!-- <h4 class="text-center py-5">沙發及椅子清洗</h4> -->
+                    <!-- <div class="col-12 text-green">
+                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
                         <ul class="list-group list">
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>消除異味</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地毯使用壽命</li>
                         </ul>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -171,12 +171,12 @@
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/specialize/phone-3.jpg" class="card-img-top imgSize" alt="phone3" title="電話消毒-3">
                     </div>
-                    <div class="col-12 text-green">
-                      <!-- <h4 class="text-center py-5">沙發及椅子清洗</h4> -->
+                    <!-- <div class="col-12 text-green">
+                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
                         <ul class="list-group list">
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中，定期電話清潔消毒可避免我們的健康產生傷害</li>
                         </ul>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
