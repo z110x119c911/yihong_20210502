@@ -11,3 +11,21 @@
     height: 300px;
   }
 }
+.about-imgSize {
+  max-height: 500px;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .about-imgSize {
+    height: 300px;
+  }
+}
+.company-imgSize {
+  max-height: 400px;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .company-imgSize {
+    height: 300px;
+  }
+}

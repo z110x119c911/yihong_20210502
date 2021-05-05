@@ -8,14 +8,17 @@
       </div>
       <div class="row py-5 justify-content-center">
         <div class="col-md-10">
-          <div class="card p-5 border_corner">
+          <div class="card py-5 px-4 mx-4 border_corner">
             <h1 class="h4 mb-0 text-center text-green">羿鴻企業有限公司</h1>
-            <p class="py-4 mb-0">讓顧客滿意，並提供專業的服務諮詢、免費的報價服務。單一窗口、整合服務、一次滿足需求，
-              不僅為您提供符合需求及成本考量的解決方案更為您整合資源，提供適合您的客製化服務。歡迎您與我們聯絡，
-              享受貼心與優質的乾淨生活。</p>
-            <div class="row">
-              <div class="col-md-6 align-self-center">
-                <img class="img-fluid" src="../assets/img/test.jpg" alt="">
+            <div class="py-4 py-md-5 text-md-center">
+              <p>讓顧客滿意，並提供專業的服務諮詢、免費的報價服務。</p>
+              <p>單一窗口、整合服務、一次滿足需求。</p>
+              <p>不僅為您提供符合需求及成本考量的解決方案更為您整合資源，提供適合您的客製化服務。</p>
+              <p>歡迎您與我們聯絡，享受貼心與優質的乾淨生活。</p>
+            </div>
+            <div class="row py-3">
+              <div class="col-md-6 text-center">
+                <img class="img-fluid company-imgSize" src="../assets/img/member/member2.jpg" alt="">
               </div>
               <div class="col-md-6">
                 <div class="card-body">
@@ -46,7 +49,10 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row py-3">
+              <div class="col-md-6 align-self-center text-center">
+                <img class="img-fluid company-imgSize" src="../assets/img/member/member6.jpg" alt="">
+              </div>
               <div class="col-md-6">
                 <div class="card-body">
                   <div class="flex-column pt-3 mb-3 border-bottom">
@@ -74,9 +80,6 @@
                     </li>
                   </ul>
                 </div>
-              </div>
-              <div class="col-md-6 align-self-center">
-                <img class="img-fluid" src="../assets/img/test.jpg" alt="">
               </div>
             </div>
           </div>

@@ -22,9 +22,11 @@
 				</div>
 				<!-- mobile menu -->
 				<Slide class="d-md-none" right>
-					<router-link to="/company">關於公司</router-link>
-					<router-link to="/service">服務項目</router-link>
-					<router-link to="/contact">聯絡我們</router-link>
+					<router-link class="text-brown" to="/company">關於公司</router-link>
+					<router-link class="text-brown" to="/service">環境管理服務</router-link>
+					<router-link class="text-brown" to="/specialize">環境清潔專案服務</router-link>
+					<router-link class="text-brown" to="/project">其他專業服務</router-link>
+					<router-link class="text-brown" to="/contact">聯絡我們</router-link>
 				</Slide>
 				<!-- PC -->
 				<nav class="nav-menu d-none d-md-block">
@@ -36,13 +38,13 @@
 							<router-link class="py-4" to="">服務項目</router-link>
 							<ul>
 								<li class="drop-down dropdown">
-									<router-link to="/service">一般清潔</router-link>
+									<router-link to="/service">環境管理服務</router-link>
 								</li>
 								<li class="drop-down">
-									<router-link to="/specialize">專業服務</router-link>
+									<router-link to="/specialize">環境清潔專案服務</router-link>
 								</li>
 								<li class="drop-down">
-									<router-link to="/project">專案處理</router-link>
+									<router-link to="/project">其他專業服務</router-link>
 								</li>
 							</ul>
 						</li>
@@ -106,7 +108,9 @@ export default {
 		}
 	},
   methods: {
-
+		close(){
+			
+		}
 	},
 }
 </script>

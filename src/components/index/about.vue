@@ -3,37 +3,19 @@
     <section id="about" class="about">
 			<div class="container">
 				<div class="row py-5">
-					<div class="col-xl-5 col-lg-6 align-self-center">
-						<img class="img-fluid" :src="about" alt="">
+					<div class="col-xl-5 col-lg-6 text-center align-self-center">
+						<img class="img-fluid about-imgSize" :src="about" alt="">
 					</div>
-					<div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+					<div class="col-xl-7 col-lg-6 px-4 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
 						<h3 class="">關於我們</h3>
 						<h4>以親切服務客戶，滿足客戶需求</h4>
 						<h4>有效溝通，達到最大效益</h4>
-						<div class="icon-box about_box_bg">
-							<div class="icon"><i class="material-icons">opacity</i></div>
-							<h4 class="title">專業清潔</h4>
-							<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
-								excepturi sint occaecati cupiditate non provident</p>
-						</div>
-
-						<div class="icon-box about_box_bg">
-							<div class="icon"><i class="material-icons">search</i></div>
-							<h4 class="title">細節處理</h4>
-							<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
-								blanditiis praesentium voluptatum deleniti atque</p>
-						</div>
-
-						<div class="icon-box about_box_bg">
-							<div class="icon"><i class="material-icons">bubble_chart</i></div>
-							<h4 class="title">消毒防疫</h4>
-							<p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis
-								odit. Sunt aut deserunt minus aut eligendi omnis</p>
-						</div>
-
+						<p>羿鴻企業有限公司，讓顧客滿意，並提供專業的服務諮詢、免費的報價服務。</p>
+						<p>單一窗口、整合服務、一次滿足需求，不僅為您提供符合需求及成本考量的解決方案更為您整合資源，
+							提供適合您的客製化服務。</p>
+						<p>歡迎您與我們聯絡，享受貼心與優質的乾淨生活。</p>
 					</div>
 				</div>
-
 			</div>
 		</section>
   </div>
@@ -48,7 +30,7 @@
 </style>
 
 <script>
-import about_img from '../../assets/img/why_us.jpg'
+import about_img from '../../assets/img/member/member1.jpg'
 export default {
 	data() {
 		return {

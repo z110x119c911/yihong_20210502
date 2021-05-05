@@ -3,21 +3,27 @@
     <Header :picture="img"></Header>
     <section>
       <b-card no-body>
-        <h4 class="d-block d-md-none py-4 text-center mb-0 text-green font-weight-bold">專業服務項目</h4>
+        <h4 class="d-block d-md-none py-4 text-center mb-0 text-green font-weight-bold">環境清潔專案服務</h4>
         <b-tabs pills card :vertical="vertical" nav-wrapper-class="py-4 nav-wrap text-center serviceImg">
-          <b-tab no-body title="專業服務項目" disabled>
+          <b-tab no-body title="環境清潔專案服務" disabled>
             <template #title>
-              <p class="py-3 h4 text-green font-weight-bold d-none d-md-block">專業服務項目</p>
+              <p class="py-3 h4 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</p>
             </template>
           </b-tab>
           <b-tab no-body title="地板維護上蠟含樓梯" active>
             <b-card-text>
-              <div class="card my-3">
+              <div class="my-3">
                 <div class="card-body">
                   <div class="text-center">
                     <h4 class="pt-5 pb-4 border-service text-green">地板維護上蠟含樓梯</h4>
                   </div>
                   <div class="row p-md-5 p-0">
+                    <div class="col-12">
+                      <p>提供地板維護上蠟(含樓梯).地毯清洗.沙發及椅子清洗.電話消毒服務</p>
+                      <p>依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理，SOP標準化專案作業流程
+                        ，品管督檢，服務精緻化，員工專業訓練，品質穩定度高。
+                      </p>
+                    </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
                       <img src="../assets/img/specialize/floor1-1.jpg" class="card-img-top imgSize" alt="floor1" title="地板維護上蠟-1">
                     </div>
@@ -58,12 +64,16 @@
           </b-tab>
           <b-tab no-body title="沙發及椅子清洗">
             <b-card-text>
-              <div class="card my-3">
+              <div class="my-3">
                 <div class="card-body">
                   <div class="text-center">
                     <h4 class="pt-5 pb-4 border-service text-green">沙發及椅子清洗</h4>
                   </div>
                   <div class="row p-md-5 p-0">
+                    <div class="col-12">
+                      <p>沙發及椅子清洗：可清除髒汙、除塵蟎抗菌、保持表面乾淨。
+                      </p>
+                    </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
                       <img src="../assets/img/specialize/sofa1-1.jpg" class="card-img-top imgSize" alt="sofa1" title="沙發及椅子清洗-1">
                     </div>
@@ -97,12 +107,16 @@
           </b-tab>
           <b-tab no-body title="地毯清洗">
             <b-card-text>
-              <div class="card my-3">
+              <div class="my-3">
                 <div class="card-body">
                   <div class="text-center">
                     <h4 class="pt-5 pb-4 border-service text-green">地毯清洗</h4>
                   </div>
                   <div class="row p-md-5 p-0">
+                    <div class="col-12">
+                      <p>地毯清洗：可清除髒汙、消除異味、除塵蟎抗菌，延長地毯使用壽命。
+                      </p>
+                    </div>
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/specialize/carpet1-1.jpg" class="card-img-top imgSize" alt="carpet1" title="地毯清洗-1">
                     </div>
@@ -137,12 +151,17 @@
           </b-tab>
           <b-tab no-body title="電話消毒">
             <b-card-text>
-              <div class="card my-3">
+              <div class="my-3">
                 <div class="card-body">
                   <div class="text-center">
                     <h4 class="pt-5 pb-4 border-service text-green">電話消毒</h4>
                   </div>
                   <div class="row p-md-5 p-0">
+                    <div class="col-12">
+                      <p>電話消毒：電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中
+                        ，定期電話清潔消毒可避免我們的健康產生傷害。
+                      </p>
+                    </div>
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/specialize/phone-1.jpg" class="card-img-top imgSize" alt="phone1" title="電話消毒-1">
                     </div>
@@ -156,35 +175,6 @@
                       <!-- <h4 class="text-center py-5">沙發及椅子清洗</h4> -->
                         <ul class="list-group list">
                           <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中，定期電話清潔消毒可避免我們的健康產生傷害</li>
-                        </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </b-card-text>
-          </b-tab>
-          <b-tab no-body title="石材保養服務">
-            <b-card-text>
-              <div class="card my-3">
-                <div class="card-body">
-                  <div class="text-center">
-                    <h4 class="pt-5 pb-4 border-service text-green">石材保養服務</h4>
-                  </div>
-                  <div class="row p-md-5 p-0">
-                    <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/rock-1.jpg" class="card-img-top imgSize" alt="carpet1" title="石材保養服務-1">
-                    </div>
-                    <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/rock-2.jpg" class="card-img-top imgSize" alt="carpet2" title="石材保養服務-2">
-                    </div>
-                    <div class="col-12 text-green">
-                      <!-- <h4 class="text-center py-5">沙發及椅子清洗</h4> -->
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>整體性的石材病變防制及處置規劃</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>結果性導向、標本兼顧的養護規劃</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>一次提供全面性石材養護技術</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>提升作業系統的快速執行及有效性</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>環保及MSDS安全性作業導向</li>
                         </ul>
                     </div>
                   </div>

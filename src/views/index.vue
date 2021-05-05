@@ -2,12 +2,12 @@
   <div>
     <Header :picture="img"></Header>
     <About/>
+    <Cooperate/>
     <!-- <Promise/> -->
     <Service/>
-    <Value/>
+    <!-- <Value/> -->
     <!-- <Portfolio/> -->
-    <Cooperate/>
-    <Faq/>
+    <!-- <Faq/> -->
     <!-- <Contact/> -->
   </div>
 </template>
@@ -17,10 +17,10 @@ import header_picture from '../assets/img/header-1.jpg'
 import Header from '../components/index/header';
 import About from '../components/index/about';
 import Service from '../components/index/service';
-import Value from '../components/index/value';
+// import Value from '../components/index/value';
 // import Portfolio from '../components/index/portfolio';
 import Cooperate from '../components/index/cooperate';
-import Faq from '../components/index/faq';
+// import Faq from '../components/index/faq';
 // import Contact from '../components/index/contact';
 export default {
   components:{
@@ -29,10 +29,10 @@ export default {
     About,
     // Promise,
     Service,
-    Value,
+    // Value,
     // Portfolio,
     Cooperate,
-    Faq,
+    // Faq,
     // Contact,
   },
   data() {
