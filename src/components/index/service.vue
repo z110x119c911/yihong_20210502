@@ -60,6 +60,11 @@ export default {
 					describtion:'有效控制及降低病蟲害的密度，規劃適當藥劑使用量保護您的健康及環境',
 					link:'/project'
 				},
+				{
+					name:'石材保養服務',
+					describtion:'整體性的石材病變防制及處置規劃，環保及MSDS安全性作業導向',
+					link:'/project'
+				},
 				// {
 				// 	name:'環境管理服務',
 				// },

@@ -2,7 +2,7 @@
   <div>
     <section id="about" class="about">
 			<div class="container">
-				<div class="row py-5">
+				<div class="row no-gutters py-5">
 					<div class="col-xl-5 col-lg-6 text-center align-self-center">
 						<img class="img-fluid about-imgSize" :src="about" alt="">
 					</div>
@@ -10,10 +10,7 @@
 						<h3 class="">關於我們</h3>
 						<h4>以親切服務客戶，滿足客戶需求</h4>
 						<h4>有效溝通，達到最大效益</h4>
-						<p>羿鴻企業有限公司，讓顧客滿意，並提供專業的服務諮詢、免費的報價服務。</p>
-						<p>單一窗口、整合服務、一次滿足需求，不僅為您提供符合需求及成本考量的解決方案更為您整合資源，
-							提供適合您的客製化服務。</p>
-						<p>歡迎您與我們聯絡，享受貼心與優質的乾淨生活。</p>
+						<router-link class="btn btn-outline-info btn-sm w-25" to="/company">了解更多</router-link>
 					</div>
 				</div>
 			</div>

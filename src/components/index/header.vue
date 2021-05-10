@@ -1,7 +1,7 @@
 <template>
   <div>
     <section>
-			<img class="w-100 headerImg" :src="picture" :alt="description" :title="title">
+			<img class="w-100 headerImg img-fluid" :src="picture" :alt="description" :title="title">
 		</section>
   </div>
 </template>

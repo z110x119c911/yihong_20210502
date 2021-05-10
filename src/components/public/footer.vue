@@ -3,7 +3,7 @@
     <footer id="footer">
       <div class="footer-top">
         <div class="container">
-          <div class="row">
+          <div class="row no-gutters">
 
             <div class="col-lg-4 col-md-6 footer-contact">
               <h4>羿鴻企業有限公司</h4>
