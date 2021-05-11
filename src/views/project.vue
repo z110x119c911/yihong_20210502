@@ -24,9 +24,9 @@
                     <h4 class="pt-5 pb-4 border-service text-green">石材保養服務</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12">
+                    <div class="col-12 text-center text-muted">
                       <p>整體性的石材病變防制及處置規劃，結果性導向、標本兼顧的養護規劃，一次提供全面性石材養護技術，
-                        提升作業系統的快速執行及有效性，環保及MSDS安全性作業導向。</p>
+                        提升作業系統的快速執行及有效性，環保及MSDS安全性作業導向</p>
                     </div>
                     <div class="col-6 col-md-4 py-2">
                       <img src="../assets/img/rock/rock1-1.jpg" class="card-img-top imgSize" alt="石材保養服務1" title="石材保養服務">
@@ -46,15 +46,6 @@
                     <div class="col-6 col-md-4 py-2">
                       <img src="../assets/img/rock/rock2-3.jpg" class="card-img-top imgSize" alt="石材保養服務4" title="石材保養服務">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">地板維護上蠟含樓梯</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>止滑增豔</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>防護維護</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地板生命週期</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -74,9 +65,9 @@
                     <h4 class="pt-5 pb-4 border-service text-green">病蟲害環境管理服務</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12">
+                    <div class="col-12 text-center text-muted">
                       <p>使用環保署核准之環境藥劑與器材，適當及有效的防治規劃及諮詢，有效控制及降低病蟲害的密度，
-                        規劃適當藥劑使用量保護您的健康及環境。
+                        規劃適當藥劑使用量保護您的健康及環境
                       </p>
                     </div>
 
@@ -130,14 +121,6 @@
                         本方法用以對付拒食毒餌或抗藥性較強之鼠隻成效極佳。
                         尤其是鼠屍容易發現，容易處理，不虞死鼠到處死而腐爛生蟲，是近年來防鼠必用的方法。</p>
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>保持表面乾淨</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -157,8 +140,9 @@
                     <h4 class="pt-5 pb-4 border-service text-green">外牆清洗服務</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12">
-                      <p>規劃符合客戶需求的清洗作業，適度防護保養、降低外牆侵蝕，符合政府法規之安全施工程序，使用不傷材質的環保化學藥劑，完備及安全的工具設備。</p>
+                    <div class="col-12 text-center text-muted">
+                      <p>規劃符合客戶需求的清洗作業，適度防護保養、降低外牆侵蝕，符合政府法規之安全施工程序
+                        ，使用不傷材質的環保化學藥劑，完備及安全的工具設備</p>
                     </div>
                     <div class="col-12 col-md-6 py-2">
                       <img src="../assets/img/wall/wall-1.jpg" class="card-img-top imgSize" alt="外牆清洗服務" title="外牆清洗服務">
@@ -169,15 +153,6 @@
                     <div class="col-12 col-md-6 py-2">
                       <img src="../assets/img/wall/wall-3.jpg" class="card-img-top imgSize" alt="外牆清洗服務" title="外牆清洗服務">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>消除異味</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地毯使用壽命</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -197,9 +172,9 @@
                     <h4 class="pt-5 pb-4 border-service text-green">水塔清洗服務</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12">
+                    <div class="col-12 text-center text-muted">
                       <p>清洗前公告通知，關閉總水源開關，清洗前拍照及採取水質樣本，進行人員手工刷洗，
-                        清洗後拍照及採取水質樣本，觀察進水是否順利，清洗後免費提供照片及水質檢驗報告書。</p>
+                        清洗後拍照及採取水質樣本，觀察進水是否順利，清洗後免費提供照片及水質檢驗報告書</p>
                     </div>
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/tower/tower1-1.jpg" class="card-img-top imgSize" alt="水塔清洗服務" title="水塔清洗服務">
@@ -213,12 +188,6 @@
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/tower/tower2-2.jpg" class="card-img-top imgSize" alt="水塔清洗服務" title="水塔清洗服務">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中，定期電話清潔消毒可避免我們的健康產生傷害</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>

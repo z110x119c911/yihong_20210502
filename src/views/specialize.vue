@@ -9,7 +9,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</h2>
-                <p class="text-muted mb-0">提供地板維護上腊(含樓梯).地毯清洗.沙發及椅子清洗.電話消毒服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -19,7 +18,7 @@
                     <h4 class="pt-5 pb-4 border-service text-green">地板、樓梯清洗上腊</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12 text-center">
+                    <div class="col-12 text-center text-muted">
                       <p class="text-muted">可清除髒汙、止滑增豔、防護維護，延長地板生命週期</p>
                     </div>
 
@@ -56,15 +55,6 @@
                     <div class="col-6 col-md-6 col-lg-4 py-2">
                       <img src="../assets/img/specialize/floor4-3.jpg" class="card-img-top imgSize" alt="floor8" title="地板維護上腊">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">地板維護上腊含樓梯</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>止滑增豔</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>防護維護</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地板生命週期</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -74,7 +64,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</h2>
-                <p class="text-muted mb-0">提供地板維護上腊(含樓梯).地毯清洗.沙發及椅子清洗.電話消毒服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -83,37 +72,42 @@
                   <div class="text-center">
                     <h4 class="pt-5 pb-4 border-service text-green">沙發及椅子清洗</h4>
                   </div>
-                  <div class="row p-md-5 p-0">
-                    <div class="col-12">
-                      <p>沙發及椅子清洗：可清除髒汙、除塵蟎抗菌、保持表面乾淨。
+                  <div class="row p-md-3 p-0">
+                    <div class="col-12 text-center text-muted">
+                      <p>可清除髒汙、除塵蟎抗菌、保持表面乾淨
                       </p>
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa1-1.jpg" class="card-img-top imgSize" alt="sofa1" title="沙發及椅子清洗-1">
+                      <img src="../assets/img/specialize/sofa1-1.jpg" class="card-img-top imgSize" alt="sofa1" title="沙發及椅子清洗">
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa1-2.jpg" class="card-img-top imgSize" alt="sofa2" title="沙發及椅子清洗-2">
+                      <img src="../assets/img/specialize/sofa1-2.jpg" class="card-img-top imgSize" alt="sofa2" title="沙發及椅子清洗">
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa1-3.jpg" class="card-img-top imgSize" alt="sofa3" title="沙發及椅子清洗-3">
+                      <img src="../assets/img/specialize/sofa1-3.jpg" class="card-img-top imgSize" alt="sofa3" title="沙發及椅子清洗">
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa1-4.jpg" class="card-img-top imgSize" alt="sofa4" title="沙發及椅子清洗-4">
+                      <img src="../assets/img/specialize/sofa1-4.jpg" class="card-img-top imgSize" alt="sofa4" title="沙發及椅子清洗">
                     </div>
-                    <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa2-1.jpg" class="card-img-top imgSize" alt="sofa5" title="沙發及椅子清洗-5">
+                  </div>
+                  <div class="row p-md-3 p-0">
+                    <div class="col-6 col-md-6 col-lg-4 py-2">
+                      <img src="../assets/img/specialize/sofa3-1.jpg" class="card-img-top imgSize" alt="sofa2" title="沙發及椅子清洗">
                     </div>
-                    <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/sofa2-2.jpg" class="card-img-top imgSize" alt="sofa6" title="沙發及椅子清洗-6">
+                    <div class="col-6 col-md-6 col-lg-4 py-2">
+                      <img src="../assets/img/specialize/sofa3-2.jpg" class="card-img-top imgSize" alt="sofa3" title="沙發及椅子清洗">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>保持表面乾淨</li>
-                        </ul>
-                    </div> -->
+                    <div class="col-6 col-md-6 col-lg-4 py-2">
+                      <img src="../assets/img/specialize/sofa3-3.jpg" class="card-img-top imgSize" alt="sofa4" title="沙發及椅子清洗">
+                    </div>
+                  </div>
+                  <div class="row p-md-3 p-0">
+                    <div class="col-6 col-md-6 col-lg-6 py-2">
+                      <img src="../assets/img/specialize/sofa2-1.jpg" class="card-img-top imgSize" alt="sofa5" title="沙發及椅子清洗">
+                    </div>
+                    <div class="col-6 col-md-6 col-lg-6 py-2">
+                      <img src="../assets/img/specialize/sofa2-2.jpg" class="card-img-top imgSize" alt="sofa6" title="沙發及椅子清洗">
+                    </div>
                   </div>
                 </div>
               </div>
@@ -123,7 +117,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</h2>
-                <p class="text-muted mb-0">提供地板維護上腊(含樓梯).地毯清洗.沙發及椅子清洗.電話消毒服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -134,7 +127,7 @@
                   </div>
                   <div class="row p-md-5 p-0">
                     <div class="col-12 text-center text-muted">
-                      <p>可清除髒汙、消除異味、除塵蟎抗菌，延長地毯使用壽命。
+                      <p>可清除髒汙、消除異味、除塵蟎抗菌，延長地毯使用壽命
                       </p>
                     </div>
                     <div class="col-6 col-md-6 py-2">
@@ -155,15 +148,6 @@
                     <div class="col-6 col-md-6 py-2">
                       <img src="../assets/img/specialize/carpet3-2.jpg" class="card-img-top imgSize" alt="carpet6" title="地毯清洗-6">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>可清除髒汙</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>消除異味</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>除塵蟎抗菌</li>
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>延長地毯使用壽命</li>
-                        </ul>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -173,7 +157,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</h2>
-                <p class="text-muted mb-0">提供地板維護上腊(含樓梯).地毯清洗.沙發及椅子清洗.電話消毒服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -183,9 +166,9 @@
                     <h4 class="pt-5 pb-4 border-service text-green">電話消毒</h4>
                   </div>
                   <div class="row p-md-5 p-0">
-                    <div class="col-12">
+                    <div class="col-12 text-center text-muted">
                       <p>電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中
-                        ，定期電話清潔消毒可避免我們的健康產生傷害。
+                        ，定期電話清潔消毒可避免我們的健康產生傷害
                       </p>
                     </div>
                     <div class="col-4 py-2">
@@ -197,12 +180,6 @@
                     <div class="col-4 py-2">
                       <img src="../assets/img/specialize/phone-3.jpg" class="card-img-top imgSize" alt="phone3" title="電話消毒-3">
                     </div>
-                    <!-- <div class="col-12 text-green">
-                      <h4 class="text-center py-5">沙發及椅子清洗</h4>
-                        <ul class="list-group list">
-                          <li class="list-group-item align-self-center"><i class="material-icons">verified_user</i>電話是我們最親密的朋友，但忙碌的生活卻忽略了細菌就滋生在我們最常接觸的話機中，定期電話清潔消毒可避免我們的健康產生傷害</li>
-                        </ul>
-                    </div> -->
                   </div>
                   <div class="row p-md-5 p-0">
                     <div class="col-6 col-md-6 py-2">

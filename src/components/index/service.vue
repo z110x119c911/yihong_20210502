@@ -42,8 +42,18 @@ export default {
 				},
 				{
 					name:'環境清潔專案服務',
-					describtion:'提供地板維護上蠟(含樓梯)、地毯清洗、沙發及椅子清洗，電話消毒服務',
+					describtion:'地板、樓梯清洗上腊、地毯清洗、沙發及椅子清洗，電話消毒服務',
 					link:'/specialize'
+				},
+				{
+					name:'石材保養服務',
+					describtion:'整體性的石材病變防制及處置規劃，環保及MSDS安全性作業導向',
+					link:'/project'
+				},
+				{
+					name:'病蟲害環境管理服務',
+					describtion:'有效控制及降低病蟲害的密度，規劃適當藥劑使用量保護您的健康及環境',
+					link:'/project'
 				},
 				{
 					name:'外牆清洗服務',
@@ -55,19 +65,6 @@ export default {
 					describtion:'採取水質樣本，觀察進水是否順利，清洗後免費提供照片及水質檢驗報告書',
 					link:'/project'
 				},
-				{
-					name:'病蟲害環境管理服務',
-					describtion:'有效控制及降低病蟲害的密度，規劃適當藥劑使用量保護您的健康及環境',
-					link:'/project'
-				},
-				{
-					name:'石材保養服務',
-					describtion:'整體性的石材病變防制及處置規劃，環保及MSDS安全性作業導向',
-					link:'/project'
-				},
-				// {
-				// 	name:'環境管理服務',
-				// },
 			],
 			img_person_List:[
         {img:require('../../assets/img/company/com1.png')},

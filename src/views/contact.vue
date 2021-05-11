@@ -1,11 +1,11 @@
 <template>
   <div>
     <section id="contact" class="contact section-bg py-5">
-			<div class="section-title text-green">
-					<h2 class="d-none d-md-block">聯絡我們</h2>
-					<h4 class="d-block d-md-none">聯絡我們</h4>
-					<p>若有其他問題，以及報價細節需求，歡迎填寫表單聯絡我們。</p>
-				</div>
+			<div class="section-title text-green px-3">
+				<h2 class="d-none d-md-block">聯絡我們</h2>
+				<h4 class="d-block d-md-none">聯絡我們</h4>
+				<p>若有其他問題，以及報價細節需求，歡迎填寫表單聯絡我們。</p>
+			</div>
 			<div class="container bg-white">
 				<div class="row justify-content-center">
 					<div class="col-xl-3 col-lg-4 mt-4">
