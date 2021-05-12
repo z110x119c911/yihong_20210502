@@ -23,7 +23,7 @@
                     </div>
 
                     <div class="col-6 col-md-6 col-lg-3 py-2">
-                      <img src="../assets/img/specialize/floor1-1.jpg" class="card-img-top imgSize" alt="floor1" title="地板維護上腊-1">
+                      <img src="../assets/img/specialize/floor1-1.jpg" class="card-img-top imgSize" alt="floor1" title="地板維護上腊">
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 py-2">
                       <img src="../assets/img/specialize/floor1-2.jpg" class="card-img-top imgSize" alt="floor2" title="地板維護上腊">
@@ -131,22 +131,22 @@
                       </p>
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet1-1.jpg" class="card-img-top imgSize" alt="carpet1" title="地毯清洗-1">
+                      <img src="../assets/img/specialize/carpet1-1.jpg" class="card-img-top imgSize" alt="carpet1" title="地毯清洗">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet1-2.jpg" class="card-img-top imgSize" alt="carpet2" title="地毯清洗-2">
+                      <img src="../assets/img/specialize/carpet1-2.jpg" class="card-img-top imgSize" alt="carpet2" title="地毯清洗">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet2-1.jpg" class="card-img-top imgSize" alt="carpet3" title="地毯清洗-3">
+                      <img src="../assets/img/specialize/carpet2-1.jpg" class="card-img-top imgSize" alt="carpet3" title="地毯清洗">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet2-2.jpg" class="card-img-top imgSize" alt="carpet4" title="地毯清洗-4">
+                      <img src="../assets/img/specialize/carpet2-2.jpg" class="card-img-top imgSize" alt="carpet4" title="地毯清洗">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet3-1.jpg" class="card-img-top imgSize" alt="carpet5" title="地毯清洗-5">
+                      <img src="../assets/img/specialize/carpet3-1.jpg" class="card-img-top imgSize" alt="carpet5" title="地毯清洗">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/carpet3-2.jpg" class="card-img-top imgSize" alt="carpet6" title="地毯清洗-6">
+                      <img src="../assets/img/specialize/carpet3-2.jpg" class="card-img-top imgSize" alt="carpet6" title="地毯清洗">
                     </div>
                   </div>
                 </div>
@@ -172,21 +172,21 @@
                       </p>
                     </div>
                     <div class="col-4 py-2">
-                      <img src="../assets/img/specialize/phone-1.jpg" class="card-img-top imgSize" alt="phone1" title="電話消毒-1">
+                      <img src="../assets/img/specialize/phone-1.jpg" class="card-img-top imgSize" alt="phone1" title="電話消毒">
                     </div>
                     <div class="col-4 py-2">
-                      <img src="../assets/img/specialize/phone-2.jpg" class="card-img-top imgSize" alt="phone2" title="電話消毒-2">
+                      <img src="../assets/img/specialize/phone-2.jpg" class="card-img-top imgSize" alt="phone2" title="電話消毒">
                     </div>
                     <div class="col-4 py-2">
-                      <img src="../assets/img/specialize/phone-3.jpg" class="card-img-top imgSize" alt="phone3" title="電話消毒-3">
+                      <img src="../assets/img/specialize/phone-3.jpg" class="card-img-top imgSize" alt="phone3" title="電話消毒">
                     </div>
                   </div>
                   <div class="row p-md-5 p-0">
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/phone2-1.jpg" class="card-img-top imgSize" alt="phone1" title="電話消毒-1">
+                      <img src="../assets/img/specialize/phone2-1.jpg" class="card-img-top imgSize" alt="phone1" title="電話消毒">
                     </div>
                     <div class="col-6 col-md-6 py-2">
-                      <img src="../assets/img/specialize/phone2-2.jpg" class="card-img-top imgSize" alt="phone2" title="電話消毒-2">
+                      <img src="../assets/img/specialize/phone2-2.jpg" class="card-img-top imgSize" alt="phone2" title="電話消毒">
                     </div>
                   </div>
                 </div>
