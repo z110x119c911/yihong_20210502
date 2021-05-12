@@ -14,7 +14,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">其他專業服務</h2>
-                <p class="text-muted mb-0">提供石材保養服務、病蟲害環境管理服務、外牆清洗服務、水塔清洗服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -55,7 +54,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">其他專業服務</h2>
-                <p class="text-muted mb-0">提供石材保養服務、病蟲害環境管理服務、外牆清洗服務、水塔清洗服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -130,7 +128,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">其他專業服務</h2>
-                <p class="text-muted mb-0">提供石材保養服務、病蟲害環境管理服務、外牆清洗服務、水塔清洗服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
@@ -162,7 +159,6 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">其他專業服務</h2>
-                <p class="text-muted mb-0">提供石材保養服務、病蟲害環境管理服務、外牆清洗服務、水塔清洗服務</p>
                 <p class="text-muted mb-0 mt-4">依據現場需求提供適當的專案規劃，針對專案項目提供專業的處理</p>
                 <p class="text-muted mb-0">SOP標準化專案作業流程，品管督檢，服務精緻化，員工專業訓練，品質穩定度高</p>
               </div>
