@@ -42,7 +42,7 @@ export default {
 				},
 				{
 					name:'環境清潔專案服務',
-					describtion:'地板、樓梯清洗上腊、地毯清洗、沙發及椅子清洗，電話消毒服務',
+					describtion:'地板、樓梯清洗上腊、地毯清洗、沙發及椅子清洗、電話消毒服務',
 					link:'/specialize'
 				},
 				{
