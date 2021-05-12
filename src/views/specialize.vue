@@ -5,7 +5,7 @@
       <b-card no-body>
         <h4 class="d-block d-md-none py-4 text-center mb-0 text-green font-weight-bold">環境清潔專案服務</h4>
         <b-tabs pills card :vertical="vertical" nav-wrapper-class="py-5 nav-wrap text-center serviceImg">
-          <b-tab no-body title-item-class="w-100" title="地板、樓梯清洗上腊" active>
+          <b-tab no-body title-item-class="w-100" title="地板.樓梯清洗上腊" active>
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境清潔專案服務</h2>
@@ -15,7 +15,7 @@
               <div class="my-3">
                 <div class="card-body">
                   <div class="text-center">
-                    <h4 class="pt-5 pb-4 border-service text-green">地板、樓梯清洗上腊</h4>
+                    <h4 class="pt-5 pb-4 border-service text-green">地板.樓梯清洗上腊</h4>
                   </div>
                   <div class="row p-md-5 p-0">
                     <div class="col-12 text-center text-muted">
