@@ -8,7 +8,7 @@
             <div class="col-lg-4 col-md-6 footer-contact">
               <h4>羿鴻企業有限公司</h4>
               <p>
-                台北市士林區延平北路二段176巷6弄15號1F<br>
+                台北市士林區延平北路六段176巷6弄15號1F<br>
                 <strong>聯絡電話:</strong> 0932-316-595<br>
                 <strong>Email:</strong> info@example.com<br>
               </p>
