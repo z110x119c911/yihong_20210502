@@ -14,7 +14,7 @@
             <b-card-text>
               <div class="text-center p-3 bg-light">
                 <h2 class="py-3 text-green font-weight-bold d-none d-md-block">環境管理服務</h2>
-                <p class="text-muted mb-0">提供辦公室、大樓、房務、廠辦細清清潔服務</p>
+                <h4 class="pt-5 pb-4 text-green">提供辦公室、大樓、房務、廠辦細清清潔服務</h4>
                 <p class="text-muted mb-0">客製化的人力規劃管理，提供更具效果的清潔方式和工具</p>
                 <p class="text-muted mb-0">提高整體生產力及貢獻度，持續研究開發專業清潔工具設備及技術</p>
               </div>
