@@ -7,6 +7,8 @@ import store from "./store";
 import "bootstrap";
 import "popper.js";
 import "jquery";
+import LoadScript from 'vue-plugin-load-script';
+Vue.use(LoadScript);
 //bv
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 import 'bootstrap-vue/dist/bootstrap-vue.css'

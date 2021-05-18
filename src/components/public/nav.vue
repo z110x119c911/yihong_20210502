@@ -4,13 +4,13 @@
       <div class="container d-flex">
         <div class="contact-info mr-auto">
           <ul class="d-none d-md-block">
-            <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">Test@yihong.com</a>
+            <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">support@yihong-clean.com</a>
             </li>
             <li><i class="icofont-phone"></i> 0932-316-595</li>
             <li><i class="icofont-clock-time icofont-flip-horizontal"></i> AM 9:00 - PM 20:00</li>
           </ul>
 					<ul class="d-block d-md-none">
-            <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">Test@yihong.com</a>
+            <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">support@yihong-clean.com</a>
             </li>
             <li class="d-none"><i class="icofont-phone"></i> 0932-316-595</li>
             <li><i class="icofont-clock-time icofont-flip-horizontal"></i> AM 9:00 - PM 20:00</li>

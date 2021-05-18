@@ -19,8 +19,8 @@
               <ul>
                 <li><i class="bx bx-chevron-right"></i><router-link to="/">首頁</router-link></li>
                 <li><i class="bx bx-chevron-right"></i><router-link to="/company">關於公司</router-link></li>
-                <li><i class="bx bx-chevron-right"></i><router-link to="/contact">聯絡我們</router-link></li>
                 <li><i class="bx bx-chevron-right"></i><router-link to="/service">服務項目</router-link></li>
+                <li><i class="bx bx-chevron-right"></i><router-link to="/contact">聯絡我們</router-link></li>
               </ul>
             </div>
             <!-- <div class="col-lg-3 col-md-6 footer-links">
